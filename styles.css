@@ -1,6 +1,6 @@
     body {
             margin: 0;
-            background-color: #f8c8dc;
+            background-color: #ffd9e8;
             font-family: 'Poppins', sans-serif;
             color: white;
             text-align: center;
@@ -10,6 +10,11 @@
             padding: 15px 0;
             font-weight: 600;
             font-size: 18px;
+
+             display: flex;
+             justify-content: center; 
+             list-style: none;
+             gap: 40px;    
         }
 
         nav a {
