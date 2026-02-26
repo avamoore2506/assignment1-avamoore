@@ -20,21 +20,20 @@ body {
 
      
 nav {
-            padding: 15px 0;
-            font-weight: 600;
-            font-size: 18px;
-
-             display: flex;
-             justify-content: center; 
-             list-style: none;
-             gap: 40px;    
+    padding: 15px 0;
+    font-weight: 600;
+    font-size: 18px;
+    display: flex;
+    justify-content: center; 
+    list-style: none;
+    gap: 40px;    
         }
 
       
 nav a {
-            color: white;
-            text-decoration: none;
-            margin: 0 20px;
+    color: white;
+    text-decoration: none;
+    margin: 0 20px;
         }
 
 nav a:hover {
@@ -53,15 +52,15 @@ main {
 
        
 h1 {
-            margin-top: 60px;
-            font-size: 42px;
+    margin-top: 60px;
+    font-size: 42px;
         }
 
        
 p {
-            font-size: 18px;
-            max-width: 600px;
-            margin: 20px auto;
+    font-size: 18px;
+    max-width: 600px;
+    margin: 20px auto;
         }
 
 footer {
