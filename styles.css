@@ -89,3 +89,6 @@ button {
   border-radius: 5px;
 }
 
+button:hover {
+  background-color: #ff4fa3;  
+}
