@@ -76,9 +76,9 @@ body.dark-mode {
 }
 
 button {
-  width: auto !important;
-  display: inline-block;   
+   align-self: center;   
   width: auto;
+  display: inline-block;
   padding: 8px 16px;
   font-size: 16px;
   margin-top: 50px;
