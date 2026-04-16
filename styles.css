@@ -75,3 +75,14 @@ body.dark-mode {
   background-color: #121212;
 }
 
+button {
+  display: inline-block;   
+  width: auto;
+  padding: 8px 16px;
+  font-size: 16px;
+  margin-top: 50px;
+  cursor: pointer;
+  border: none;
+  border-radius: 5px;
+}
+
