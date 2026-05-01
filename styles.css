@@ -117,3 +117,33 @@ button:hover {
 #generate-btn:hover {
     background-color: deeppink;
 }
+
+//mobile settings
+@media (max-width: 768px) {
+
+{
+        flex-direction: column;
+        gap: 10px;
+    }
+    h1 {
+        font-size: 30px;
+    }
+
+    h2 {
+        font-size: 20px;
+    }
+
+    p {
+        font-size: 16px;
+        padding: 0 10px;
+    }
+
+    #affirmation-box {
+        width: 90%;
+    }
+
+   button {
+        font-size: 16px;
+        padding: 10px 16px;
+    }
+}
